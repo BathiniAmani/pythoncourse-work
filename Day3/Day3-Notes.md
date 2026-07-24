@@ -16,9 +16,9 @@ A Data Type defines:
 
 -->Python automatically identifies:
 
-       * `10` → `int`
-       * `"Amani"` → `str`
-       * `99.5` → `float`
+        `10` → `int`
+        `"Amani"` → `str`
+        `99.5` → `float`
 
 
 
@@ -186,9 +186,9 @@ _________________________________________________
 
       Used when:
 
-          * Value not assigned
-          * Placeholder
-          * Empty state
+           Value not assigned
+           Placeholder
+           Empty state
 
 
              Mutable vs Immutable

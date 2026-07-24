@@ -271,15 +271,24 @@ Examples
 
 
 
-Type Conversions Allowed in Python:
--->int:float,complex,bool,str	   
+-->Type Conversions Allowed in Python:
+______________________________________________________
+-->int:float,complex,bool,str	 
+
 -->float:int,float,complex,bool,str
+
 -->complex:bool,str
+
 -->bool:int,float,complex,string
+
 -->str:int,float,bool,str,list,tuple,set
+
 -->list:bool,str,list,tuple,set
+
 -->tuple:bool,str,list,set
+
 -->set:bool,str,list,tuple
+
 -->dictionary:bool,str,list,tuple,set
 
 
